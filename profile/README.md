@@ -1,4 +1,4 @@
-- 👋 Hi, I’m we are Neko.
+- 👋 Hey there, We are Neko.
 - 👀 We are making a Scratch Game Hosting Website.
 - 🌱 We are currently 2 persons working on it.
 - 💞️ Owned and managed by @NullyIsHere.
